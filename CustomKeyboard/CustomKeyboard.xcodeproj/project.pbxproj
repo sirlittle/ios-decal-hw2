@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A5554491BA930D800AF502F /* Keyboard.xib */; settings = {ASSET_TAGS = (); }; };
+		3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A5554491BA930D800AF502F /* Keyboard.xib */; };
 		3AAA639A1BA9263900E3822E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA63991BA9263900E3822E /* AppDelegate.swift */; };
 		3AAA639C1BA9263900E3822E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA639B1BA9263900E3822E /* ViewController.swift */; };
 		3AAA639F1BA9263900E3822E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AAA639D1BA9263900E3822E /* Main.storyboard */; };
@@ -159,6 +159,7 @@
 		3AAA638E1BA9263900E3822E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "iOS Decal";
 				TargetAttributes = {
